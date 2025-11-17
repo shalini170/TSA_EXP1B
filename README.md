@@ -81,24 +81,26 @@ plt.show()
 
 **After Regular Differencing:**
 
-![alt text](<IMAGES/Screenshot 2025-08-18 161443.png>)
+<img width="791" height="528" alt="image" src="https://github.com/user-attachments/assets/c332d7f9-62ad-436f-9ade-d231e8d8fa26" />
 
-![alt text](<IMAGES/Screenshot 2025-08-18 161501.png>)
+<img width="824" height="515" alt="image" src="https://github.com/user-attachments/assets/c9c0c3c9-9f1c-4515-b993-2de7f1a46230" />
 
-![alt text](<IMAGES/Screenshot 2025-08-18 161548.png>)
+<img width="801" height="512" alt="image" src="https://github.com/user-attachments/assets/f3fa23b9-5267-4802-8e56-5e222f813b88" />
+
 
 **After Seasonal Adjustment:**
 
-![alt text](<IMAGES/Screenshot 2025-08-18 161511.png>)
+<img width="785" height="499" alt="image" src="https://github.com/user-attachments/assets/9030ad02-5f7a-4cc1-9f8c-3b28e858396e" />
+
 
 
 
 **After Log Transformation:**
+<img width="830" height="509" alt="image" src="https://github.com/user-attachments/assets/beb0d280-7cef-4104-928a-4369d6083d8a" />
 
-![alt text](<IMAGES/Screenshot 2025-08-18 161522.png>)
 
 ### RESULT:
-
+The non-stationary airline passenger dataset was successfully transformed into stationary form using differencing, seasonal adjustment, and logarithmic conversion techniques.
 The non-stationary airline passenger dataset was successfully transformed into stationary form using differencing, seasonal adjustment, and logarithmic conversion techniques.
 
 
